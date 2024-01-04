@@ -10,3 +10,4 @@
 |[command_controller](https://github.com/PureRustRobot/command_controller)|[![Rust](https://github.com/PureRustRobot/command_controller/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/command_controller/actions/workflows/rust.yml)|
 |[joy_publisher](https://github.com/PureRustRobot/joy_publisher)|![Rust](https://github.com/PureRustRobot/joy_publisher/actions/workflows/rust.yml/badge.svg)|
 |[keyboard_publisher](https://github.com/PureRustRobot/keyboard_publisher)|[![Rust](https://github.com/PureRustRobot/keyboard_publisher/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/keyboard_publisher/actions/workflows/rust.yml)|
+|[serial_transporter](https://github.com/PureRustRobot/serial_transporter)|[![Rust](https://github.com/PureRustRobot/serial_transporter/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/serial_transporter/actions/workflows/rust.yml)|
