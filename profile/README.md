@@ -17,3 +17,4 @@
 |:--:|:--:|
 |[zenoh_manage_utils](https://github.com/PureRustRobot/zenoh_manage_utils)|[![Rust](https://github.com/PureRustRobot/zenoh_manage_utils/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/zenoh_manage_utils/actions/workflows/rust.yml)|
 |[zenoh_interface](https://github.com/PureRustRobot/zenoh_interface)|![Rust](https://github.com/PureRustRobot/z_interface/actions/workflows/rust.yml/badge.svg)|
+|[zenoh_msg_generator](https://github.com/PureRustRobot/zenoh_msg_generator)|[![Rust](https://github.com/PureRustRobot/zenoh_msg_generator/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/zenoh_msg_generator/actions/workflows/rust.yml)|
