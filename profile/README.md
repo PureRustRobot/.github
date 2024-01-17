@@ -16,5 +16,5 @@
 |repository name|build status|Link|
 |:--:|:--:|:--:|
 |zenoh_manage_utils|[![Rust](https://github.com/PureRustRobot/zenoh_manage_utils/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/zenoh_manage_utils/actions/workflows/rust.yml)|https://github.com/PureRustRobot/zenoh_manage_utils|
-|zenoh_interface|![Rust](https://github.com/PureRustRobot/z_interface/actions/workflows/rust.yml/badge.svg)|https://github.com/PureRustRobot/zenoh_interface|
+|prr_msgs|[![Rust](https://github.com/PureRustRobot/prr_msgs/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/prr_msgs/actions/workflows/rust.yml)|https://github.com/PureRustRobot/prr_msgs|
 |zenoh_msg_generator|[![Rust](https://github.com/PureRustRobot/zenoh_msg_generator/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/zenoh_msg_generator/actions/workflows/rust.yml)|https://github.com/PureRustRobot/zenoh_msg_generator|
