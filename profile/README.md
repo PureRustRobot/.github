@@ -2,6 +2,13 @@
 ![picture](https://github.com/PureRustRobot/.github/blob/main/prr.png)
 
 # Repositories
+
+## Launcher
+|repository name|build status|Link|
+|:--:|:--:|:--:|
+|zenoh_launch|[![Rust](https://github.com/PureRustRobot/zenoh_launch/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/zenoh_launch/actions/workflows/rust.yml)|https://github.com/PureRustRobot/zenoh_launch|
+
+
 ## Zenoh Node
 |repository name|build status|Link|
 |:--:|:--:|:--:|
@@ -10,7 +17,6 @@
 |joy_publisher|![Rust](https://github.com/PureRustRobot/joy_publisher/actions/workflows/rust.yml/badge.svg)|https://github.com/PureRustRobot/joy_publisher|
 |keyboard_publisher|[![Rust](https://github.com/PureRustRobot/keyboard_publisher/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/keyboard_publisher/actions/workflows/rust.yml)|https://github.com/PureRustRobot/keyboard_publisher|
 |serial_transporter|[![Rust](https://github.com/PureRustRobot/serial_transporter/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/serial_transporter/actions/workflows/rust.yml)|https://github.com/PureRustRobot/serial_transporter|
-|zenoh_launch|[![Rust](https://github.com/PureRustRobot/zenoh_launch/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/zenoh_launch/actions/workflows/rust.yml)|https://github.com/PureRustRobot/zenoh_launch|
 
 ## tool and library
 |repository name|build status|Link|
