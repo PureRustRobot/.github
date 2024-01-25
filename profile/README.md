@@ -1,4 +1,9 @@
 # Pure Rust Robot
+
+# Docs
+[**こちら**](https://purerustrobot.github.io/prr-docs/)からご覧ください
+
+
 ![picture](https://github.com/PureRustRobot/.github/blob/main/prr.png)
 
 # Repositories
@@ -26,5 +31,3 @@
 |zenoh_msg_generator|[![Rust](https://github.com/PureRustRobot/zenoh_msg_generator/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/zenoh_msg_generator/actions/workflows/rust.yml)|https://github.com/PureRustRobot/zenoh_msg_generator|
 
 
-# Docs
-[こちら](https://purerustrobot.github.io/prr-docs/)からご覧ください
