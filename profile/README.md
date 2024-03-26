@@ -11,7 +11,7 @@
 ## Launcher
 |repository name|build status|Link|
 |:--:|:--:|:--:|
-|zenoh_launch|[![Rust](https://github.com/PureRustRobot/zenoh_launch/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/zenoh_launch/actions/workflows/rust.yml)|https://github.com/PureRustRobot/zenoh_launch|
+|prr_launch|[![Rust](https://github.com/PureRustRobot/prr_launch/actions/workflows/rust.yml/badge.svg)](https://github.com/PureRustRobot/prr_launch/actions/workflows/rust.yml)|https://github.com/PureRustRobot/prr_launch|
 
 
 ## Zenoh Node
