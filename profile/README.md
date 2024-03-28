@@ -33,3 +33,7 @@
 |dualshock-driver|[![Rust](https://github.com/motii8128/dualshock-driver/actions/workflows/rust.yml/badge.svg)](https://github.com/motii8128/dualshock-driver/actions/workflows/rust.yml)|https://github.com/motii8128/dualshock-driver|
 
 
+## MicroController
+|repository name|build status|Link|
+|:--:|:--:|:--:|
+|serial_zikoichi|no build test|https://github.com/PureRustRobot/serial_zikoichi|
